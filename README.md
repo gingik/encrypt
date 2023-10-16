@@ -1,6 +1,6 @@
 # Encryption and Decryption Tool
 
-Welcome to the "My Awesome Encryption and Decryption Tool" repository! This tool allows you to encrypt files, set decryption dates, and decrypt them at a later time.
+Welcome to the "A simple Encryption and Decryption Tool" repository! This tool allows you to encrypt files, set decryption dates, and decrypt them at a later time.
 
 ## Features
 
